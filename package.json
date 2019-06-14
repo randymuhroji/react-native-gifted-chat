@@ -98,8 +98,7 @@
   "peerDependencies": {
     "prop-types": "*",
     "react": "*",
-    "react-native": "*",
-    "react-native-video": "*"
+    "react-native": "*"
   },
   "husky": {
     "hooks": {
